@@ -1,2 +1,2 @@
-# Git-Assignment---02
-In this assignment, I'll be deploying a static webpage using github pages.
+# Git-Deployment---02
+In this task, I'll be deploying a static webpage using github pages.
